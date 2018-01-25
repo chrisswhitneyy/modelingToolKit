@@ -4,7 +4,7 @@ This repository contains source code for simulation experiments on models, speci
 ## Dependencies 
 ### Sensitivity Anaylsis for Everyone (SAFE) Toolbox 
 In order to run many of the optimization methods and sensitivity anaylsis the following libabry needs to be in the search path of MatLab.
-http://www.bris.ac.uk/cabot/resources/safe-toolbox/
+https://www.safetoolbox.info/
 
 ### Matlab Optimization Toolbox 
 In order to run the genetic algrothim the following Matlab package needs to be installed. 
