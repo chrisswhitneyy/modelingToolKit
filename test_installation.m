@@ -11,3 +11,5 @@ assert(exist('model_evaluation_par.m','file') == 2, 'Unable to locate model_eval
 assert(exist('model_evaluation.m','file') == 2, 'Unable to locate model_evaluation.m, insure SAFE is in search path');
 assert(exist('AAT_sampling.m','file') == 2, 'Unable to locate AAT_sampling.m, insure SAFE is in search path');
 
+disp ('Congrats the modelingToolkit and SAFE are proability installed'); 
+
