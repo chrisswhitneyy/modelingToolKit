@@ -10,6 +10,10 @@ https://www.safetoolbox.info/
 In order to run the genetic algrothim the following Matlab package needs to be installed. 
 https://www.mathworks.com/products/optimization.html
 
+
+### Matlab Parallel Toolbox 
+In order to run many of programs devoloped for a HPC you will need this tool box installed. 
+
 ## Directory Breakdown 
 
 ## /Optimization 
